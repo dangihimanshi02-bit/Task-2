@@ -1,8 +1,13 @@
 # Task-2
-About git commands
-init
-commit -m
-status
-merge
-push
+# Git Workflow Demo
+
+This repository demonstrates Git workflow and commit management.
+
+Steps demonstrated:
+- Repository creation
+- Adding files
+- Commit management
+- Branching
+- Merging
+- Pushing to github
 
