@@ -43,9 +43,6 @@ git push origin main
 # Pull latest changes
 git pull origin main
 
-# Fetch updates
-git fetch
-
 # Remove file
 git rm filename
 
